@@ -1,0 +1,3 @@
+- AI used for health suggestions
+- Inputs validated
+- No medical advice without disclaimer
