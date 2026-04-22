@@ -110,6 +110,13 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## Backend API
+- Flask-based backend created
+- Handles patient data and requests
+
+## Database
+- Supabase used with structured relational schema
+
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
